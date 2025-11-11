@@ -84,7 +84,3 @@ Historical content and AI-generated duplicates for reference.
 ## 🤝 Contributing
 
 This is a personal knowledge base. Content is continuously updated as new concepts are learned and technologies evolve.
-
----
-
-*Organized with Option 2 structure for scalability and clear domain separation.*
