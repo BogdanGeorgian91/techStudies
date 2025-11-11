@@ -258,3 +258,23 @@ Co-Authored-By: Claude <noreply@anthropic.com>"
   WORKING_DIR: /Users/bogdan/DEV/techStudies
   SESSION_ID: b07b1264-a1b9-485f-a580-d284344db468
 ---
+[2025-11-11T07:15:39Z] COMMAND: chmod +x reorg.sh && ./reorg.sh
+  DESCRIPTION: Execute reorganization
+  WORKING_DIR: /Users/bogdan/DEV/techStudies
+  SESSION_ID: b07b1264-a1b9-485f-a580-d284344db468
+---
+[2025-11-11T07:15:47Z] COMMAND: rm -rf "Backend-Cloud" "Version-Control" reorg.sh
+  DESCRIPTION: Clean up remaining folders and script
+  WORKING_DIR: /Users/bogdan/DEV/techStudies
+  SESSION_ID: b07b1264-a1b9-485f-a580-d284344db468
+---
+[2025-11-11T07:16:01Z] COMMAND: ls -la
+  DESCRIPTION: Verify new structure
+  WORKING_DIR: /Users/bogdan/DEV/techStudies
+  SESSION_ID: b07b1264-a1b9-485f-a580-d284344db468
+---
+[2025-11-11T07:17:06Z] COMMAND: git add -A && git status
+  DESCRIPTION: Stage all changes and check status
+  WORKING_DIR: /Users/bogdan/DEV/techStudies
+  SESSION_ID: b07b1264-a1b9-485f-a580-d284344db468
+---

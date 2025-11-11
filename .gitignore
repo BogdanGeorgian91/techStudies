@@ -1,0 +1,43 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Claude Code
+claude-commands.log
+.claude/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Node modules (if any scripts use npm)
+node_modules/
+
+# Python (if any scripts use Python)
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+ENV/
+env/
+
+# Archives and backups
+*.zip
+*.tar.gz
+*.rar
+*.bak
+*.backup
+
+# OS generated files
+Thumbs.db
+Desktop.ini
